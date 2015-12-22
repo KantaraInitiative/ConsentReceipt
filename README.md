@@ -1,5 +1,5 @@
 
-Check out the [WIKI](https://github.com/OpenConsent/ConsentReceipt/wiki) for more information on this project!
+Check out the [WIKI](https://github.com/OpenConsent/ConsentReceipt/wiki) for a view of the project and its development for consent receipt. 
 
 
-Check out: http://openconsent.github.io/consentreceipt
+
